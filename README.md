@@ -1,12 +1,11 @@
-<div align="left" style="font-family: 'Courier New', monospace; letter-spacing: 3px; text-transform: uppercase; color: #d4af37;">
 
-![Profile Views](https://komarev.com/ghpvc/?username=AI-AVENGER-S&color=blue&label=PROFILE+VIEWS&style=flat-square)
 
-<p style="font-size: 18px; margin: 10px 0;">
-  COMPUTER SCIENCE STUDENT FROM RUSSIA
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Начинающий+бэкэнд+разработчик;Студент+прикладной+математики+и+информатики+в+МАИ&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22&duration=200&repeat=true&random=false" alt="Typing SVG" />
+  </a>
 </p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/AI-AVENGER-S)   [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram)](https://t.me/microkidd)   [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord)](https://discord.gg/r89NFcaU)  
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AI-AVENGER-S/AI-AVENGER-S/main/assets/github-snake-dark.svg">
@@ -14,4 +13,3 @@
   <img alt="Snake" src="https://raw.githubusercontent.com/AI-AVENGER-S/AI-AVENGER-S/main/assets/github-snake.svg">
 </picture>
 
-</div>
