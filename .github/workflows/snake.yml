@@ -23,8 +23,8 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           color: "f75c7e"
           outputs: |
-            assets/github-snake.svg
-            assets/github-snake-dark.svg?palette=github-dark
+            assets/github-snake.svg?palette=.github/palettes/custom.json
+            assets/github-snake-dark.svg?palette=.github/palettes/custom-dark.json
 
       - name: Commit and Push
         run: |
