@@ -34,21 +34,27 @@
 
 <div align="left">
 
-<h3>📫 How to reach me:</h3>
+<p style="font-size: 1.25em; font-weight: 600; margin-bottom: 16px;">📫 How to reach me</p>
 
-<p style="display: flex; align-items: center; gap: 16px; flex-wrap: wrap">
-  <a href="https://leetcode.com/u/AVENGER_AI/" target="_blank" title="LeetCode">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" 
-         alt="LeetCode" 
-         style="width: 32px; height: 32px; object-fit: contain"/>
-  </a>
+<div style="display: flex; flex-direction: column; gap: 12px; margin-top: 8px;">
+  <div style="display: flex; align-items: center; gap: 8px;">
+    <a href="https://leetcode.com/u/AVENGER_AI/" target="_blank" title="LeetCode">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" 
+           alt="LeetCode" 
+           style="width: 32px; height: 32px; object-fit: contain"/>
+    </a>
+    <span>LeetCode</span>
+  </div>
   
-  <a href="https://t.me/microkidd" target="_blank" title="Telegram">
-    <img src="https://img.icons8.com/color/24/000000/telegram-app--v1.png" 
-         alt="Telegram" 
-         style="width: 32px; height: 32px"/>
-  </a>
-</p>
+  <div style="display: flex; align-items: center; gap: 8px;">
+    <a href="https://t.me/microkidd" target="_blank" title="Telegram">
+      <img src="https://img.icons8.com/color/24/000000/telegram-app--v1.png" 
+           alt="Telegram" 
+           style="width: 32px; height: 32px"/>
+    </a>
+    <span>Telegram</span>
+  </div>
+</div>
 
 <br>
   
