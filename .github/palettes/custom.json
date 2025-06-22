@@ -1,5 +1,5 @@
 {
   "background": "ffffff",
   "grid": "e1e4e8",
-  "snake": "f75c7e"
+  "snake_colors": ["f75c7e"]
 }
