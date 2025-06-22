@@ -28,27 +28,36 @@
   <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=AI-AVENGER-S&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 </a>
 
+<br>
 
-<h3>📫  How to reach me</h3>
 
-<p align="left">
-  
-  <a href="https://leetcode.com/u/AVENGER_AI/" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" width="32px"/>
-    <span>LeetCode</span>
+
+<div align="left">
+
+<h3>📫 How to reach me:</h3>
+
+<p style="display: flex; align-items: center; gap: 16px; flex-wrap: wrap">
+  <a href="https://leetcode.com/u/AVENGER_AI/" target="_blank" title="LeetCode">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" 
+         alt="LeetCode" 
+         style="width: 32px; height: 32px; object-fit: contain"/>
   </a>
-  &#8287;&#8287;
   
-  <a href="https://t.me/microkidd" target="_blank">
-    <img src="https://img.icons8.com/color/24/000000/telegram-app--v1.png" alt="Telegram" width="32px"/>
-    <span>Telegram</span>
+  <a href="https://t.me/microkidd" target="_blank" title="Telegram">
+    <img src="https://img.icons8.com/color/24/000000/telegram-app--v1.png" 
+         alt="Telegram" 
+         style="width: 32px; height: 32px"/>
   </a>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AI-AVENGER-S/AI-AVENGER-S/main/assets/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AI-AVENGER-S/AI-AVENGER-S/main/assets/github-snake.svg">
-  <img alt="Snake" src="https://raw.githubusercontent.com/AI-AVENGER-S/AI-AVENGER-S/main/assets/github-snake.svg">
-</picture>
+<br>
+  
+  <h3>🐍 At least watch the snake eating my activity 🎯</h3>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AI-AVENGER-S/AI-AVENGER-S/main/assets/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AI-AVENGER-S/AI-AVENGER-S/main/assets/github-snake.svg">
+    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/AI-AVENGER-S/AI-AVENGER-S/main/assets/github-snake.svg">
+  </picture>
 
 </div>
