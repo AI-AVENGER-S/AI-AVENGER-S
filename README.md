@@ -35,20 +35,28 @@
 <div style="display: flex; flex-direction: column; gap: 12px; margin-top: 8px;">
   <div style="display: flex; align-items: center; gap: 8px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" 
+         alt="LeetCode" 
          style="width: 32px; height: 32px; object-fit: contain"/>
-    <a href="https://leetcode.com/u/AVENGER_AI/" target="_blank" style="text-decoration: none; color: inherit;">
-      LeetCode
-    </a>
+    <span style="font-size: 32px;">
+      <a href="https://leetcode.com/u/AVENGER_AI/" target="_blank" title="LeetCode" style="text-decoration: none; color: inherit;">
+        LeetCode
+      </a>
+    </span>
   </div>
+  
   
   <div style="display: flex; align-items: center; gap: 8px;">
     <img src="https://img.icons8.com/color/24/000000/telegram-app--v1.png" 
+         alt="Telegram" 
          style="width: 32px; height: 32px"/>
-    <a href="https://t.me/microkidd" target="_blank" style="text-decoration: none; color: inherit;">
-      Telegram
-    </a>
+    <span style="font-size: 32px;">
+      <a href="https://t.me/microkidd" target="_blank" title="Telegram" style="text-decoration: none; color: inherit;">
+        Telegram
+      </a>
+    </span>
   </div>
 </div>
+
 
 <br>
   
