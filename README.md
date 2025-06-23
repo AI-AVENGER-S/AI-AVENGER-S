@@ -8,16 +8,9 @@
 
 <h3>🔥 GitHub Streak Stats</h3>
 
-<p>
-  <a href="https://git.io/streak-stats">
-    <img 
-      src="https://streak-stats.demolab.com?user=AI-AVENGER-S&theme=monokai-metallian&hide_border=true&dates=800080&ring=800080&fire=800080&currStreakLabel=800080&font=Fira%20Code&v=3" 
-      alt="GitHub Streak" 
-      style="width: 100%"
-    />
-  </a>
-</p>
-
+  
+![GitHub Streak](https://streak-stats.demolab.com?user=AI-AVENGER-S&theme=monokai&currStreakNum=F75C7E&sideNums=F75C7E)
+  
 
 <h3>💻 GitHub Profile Stats</h3>
 
@@ -41,21 +34,19 @@
 
 <div style="display: flex; flex-direction: column; gap: 12px; margin-top: 8px;">
   <div style="display: flex; align-items: center; gap: 8px;">
-    <a href="https://leetcode.com/u/AVENGER_AI/" target="_blank" title="LeetCode">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" 
-           alt="LeetCode" 
-           style="width: 32px; height: 32px; object-fit: contain"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" 
+         style="width: 32px; height: 32px; object-fit: contain"/>
+    <a href="https://leetcode.com/u/AVENGER_AI/" target="_blank" style="text-decoration: none; color: inherit;">
+      LeetCode
     </a>
-    <span>LeetCode</span>
   </div>
   
   <div style="display: flex; align-items: center; gap: 8px;">
-    <a href="https://t.me/microkidd" target="_blank" title="Telegram">
-      <img src="https://img.icons8.com/color/24/000000/telegram-app--v1.png" 
-           alt="Telegram" 
-           style="width: 32px; height: 32px"/>
+    <img src="https://img.icons8.com/color/24/000000/telegram-app--v1.png" 
+         style="width: 32px; height: 32px"/>
+    <a href="https://t.me/microkidd" target="_blank" style="text-decoration: none; color: inherit;">
+      Telegram
     </a>
-    <span>Telegram</span>
   </div>
 </div>
 
