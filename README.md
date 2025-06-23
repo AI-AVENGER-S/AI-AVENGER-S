@@ -8,14 +8,16 @@
 
 <h3>🔥 GitHub Streak Stats</h3>
 
-  <p>
-    <a href="https://git.io/streak-stats">
-      <img 
-        src="https://streak-stats.demolab.com?user=AI-AVENGER-S&theme=monokai-metallian&hide_border=true&short_numbers=true&font=Fira%20Code&text_color=800080" 
-        alt="GitHub Streak" 
-      />
-    </a>
-  </p>
+<p>
+  <a href="https://git.io/streak-stats">
+    <img 
+      src="https://streak-stats.demolab.com?user=AI-AVENGER-S&theme=monokai-metallian&hide_border=true&dates=800080&ring=800080&fire=800080&currStreakLabel=800080&font=Fira%20Code&v=3" 
+      alt="GitHub Streak" 
+      style="width: 100%"
+    />
+  </a>
+</p>
+
 
 <h3>💻 GitHub Profile Stats</h3>
 
@@ -34,7 +36,8 @@
 
 <div align="left">
 
-<p style="font-size: 1.25em; font-weight: 600; margin-bottom: 16px;">📫 How to reach me</p>
+<h3>📫 How to reach me:</h3>
+
 
 <div style="display: flex; flex-direction: column; gap: 12px; margin-top: 8px;">
   <div style="display: flex; align-items: center; gap: 8px;">
