@@ -1,88 +1,95 @@
 <div align="center">
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?lines=Machine+Learning+Engineer;Applied+Math+%26+CS+Student+@+MAI;Python+Backend+Developer;Kaggle+Competitor&font=Fira+Code&center=true&width=1000&height=50&color=70a5fd&vCenter=true&pause=1000&size=24&duration=4000&repeat=true" alt="Typing SVG" />
+  </a>
+
+  <p align="center">
+     👋 <b>Hi, I'm Artem Saveliev</b><br>
+     MAI Student | ML Enthusiast | Strong Math Background
+  </p>
   
-  ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Junior+Backend+Developer;Student+of+Applied+Mathematics+and+Computer+Science+at+MAI&font=Fira%20Code&center=true&width=1000&height=50&color=f75c7e&vCenter=true&pause=1000&size=22&duration=5000&repeat=true)
+  <p align="center">
+    I am transitioning from Backend Development to <b>Machine Learning Engineering</b>. <br>
+    My focus is on applied mathematics, algorithms, and building reliable ML-powered systems.
+  </p>
 
 </div>
 
-<div align="left">
+---
 
-<h3>🔥 GitHub Streak Stats</h3>
+### 🛠 Tech Stack & Skills
 
-  
-![GitHub Streak](https://streak-stats.demolab.com?user=AI-AVENGER-S&theme=monokai&currStreakNum=F75C7E&sideNums=F75C7E)
-  
-<h3>💻 GitHub Profile Stats</h3>
+<div align="center">
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img alt="GitHub Stats" 
-             src="https://github-readme-stats.vercel.app/api/?username=AI-AVENGER-S&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" 
-             height="192px"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img alt="Top Languages" 
-             src="https://github-readme-stats.vercel.app/api/top-langs/?username=AI-AVENGER-S&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" 
-             height="192px"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-
-
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=AI-AVENGER-S&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-</a>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logo=catboost&logoColor=black" />
 
 <br>
 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
-
-<div align="left">
-
-<h3>📫 How to reach me:</h3>
-
-
-<div style="display: flex; flex-direction: column; gap: 12px; margin-top: 8px;">
-  <div style="display: flex; align-items: center; gap: 8px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" 
-         alt="LeetCode" 
-         style="width: 32px; height: 32px; object-fit: contain"/>
-    <span style="font-size: 32px;">
-      <a href="https://leetcode.com/u/AVENGER_AI/" target="_blank" title="LeetCode" style="text-decoration: none; color: inherit;">
-        LeetCode
-      </a>
-    </span>
-  </div>
-  
-  
-  <div style="display: flex; align-items: center; gap: 8px;">
-    <img src="https://img.icons8.com/color/24/000000/telegram-app--v1.png" 
-         alt="Telegram" 
-         style="width: 32px; height: 32px"/>
-    <span style="font-size: 32px;">
-      <a href="https://t.me/microkidd" target="_blank" title="Telegram" style="text-decoration: none; color: inherit;">
-        Telegram
-      </a>
-    </span>
-  </div>
 </div>
 
+<br>
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=AI-AVENGER-S&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</div>
 
 <br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AI-AVENGER-S&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats" />
   
-  <h3>🐍 At least watch the snake eating my activity 🎯</h3>
-  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AI-AVENGER-S&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=Makefile,CMake,HTML,Roff,Rich%20Text%20Format" height="180" alt="Top Languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=AI-AVENGER-S&bg_color=1a1b26&color=7aa2f7&line=bb9af7&point=c0caf5&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+</div>
+
+<br>
+
+### 🐍 Contribution Snake
+
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AI-AVENGER-S/AI-AVENGER-S/main/assets/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AI-AVENGER-S/AI-AVENGER-S/main/assets/github-snake.svg">
     <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/AI-AVENGER-S/AI-AVENGER-S/main/assets/github-snake.svg">
   </picture>
+</div>
 
+<br>
+
+---
+
+### 📫 Connect with me
+
+<div align="center">
+  <a href="https://t.me/microkidd" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="mailto:whard8y@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://leetcode.com/u/AVENGER_AI/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://www.kaggle.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
 </div>
