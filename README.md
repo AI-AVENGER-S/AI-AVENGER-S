@@ -41,24 +41,28 @@
 
 <br>
 
-### 📊 GitHub Stats
+### 📊 GitHub & Algorithmic Stats
 
 <div align="center">
+  <table border="0">
+    <tr>
+      <td valign="top" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=AI-AVENGER-S&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&card_width=450" alt="GitHub Stats" width="100%" />
+      </td>
+      <td valign="top" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AI-AVENGER-S&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=Makefile,CMake,HTML,Roff,Rich%20Text%20Format&card_width=450" alt="Top Languages" width="100%" />
+      </td>
+    </tr>
+  </table>
+
   <img src="https://streak-stats.demolab.com?user=AI-AVENGER-S&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AI-AVENGER-S&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AI-AVENGER-S&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=Makefile,CMake,HTML,Roff,Rich%20Text%20Format" height="180" alt="Top Languages" />
-</div>
+  <br><br>
 
-<br>
+  <a href="https://leetcode.com/u/AVENGER_AI/">
+    <img src="https://leetcard.jacoblin.cool/AVENGER_AI?theme=tokyonight&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+  </a>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=AI-AVENGER-S&bg_color=1a1b26&color=7aa2f7&line=bb9af7&point=c0caf5&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 </div>
 
 <br>
